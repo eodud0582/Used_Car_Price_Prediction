@@ -1,5 +1,4 @@
-# Used_Car_Price_Prediction
-A Comparative Analysis of Linear and Machine Learning Models for Used Car Price Prediction
+# A Comparative Analysis of Linear and Machine Learning Models for Used Car Price Prediction
 
 ## Purpose
 This study explores predictive models for estimating used car prices, addressing challenges in price prediction by analyzing both linear and machine learning approaches. It aims to understand the complex relationships between automotive characteristics and market values, filling a critical gap in automotive market analytics.
